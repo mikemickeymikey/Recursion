@@ -1,0 +1,15 @@
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\bin\Debug\net6.0\Ex11.exe
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\bin\Debug\net6.0\Ex11.deps.json
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\bin\Debug\net6.0\Ex11.runtimeconfig.json
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\bin\Debug\net6.0\Ex11.dll
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\bin\Debug\net6.0\Ex11.pdb
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.csproj.AssemblyReference.cache
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.AssemblyInfoInputs.cache
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.AssemblyInfo.cs
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.dll
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\refint\Ex11.dll
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.pdb
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\Ex11.genruntimeconfig.cache
+C:\Users\miick\Documents\DAM2\M3\Recursivitat\Llista 2\Ex11\obj\Debug\net6.0\ref\Ex11.dll
